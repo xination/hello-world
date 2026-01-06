@@ -1,3 +1,7 @@
-# Tested: 2025-12-30
-print("hello world")
-print("good morning")
+def main() -> None:
+    print("hello world")
+    print("good morning")
+
+
+if __name__ == "__main__":
+    main()
